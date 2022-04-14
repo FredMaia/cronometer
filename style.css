@@ -1,0 +1,17 @@
+body {
+    background: rgb(97, 97, 97);
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+button {
+    width: 80px;
+    height: 40px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
